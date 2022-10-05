@@ -2,6 +2,12 @@
 User Guide
 (use based on Visual Studio Code)
 
+ENVIRONMENT and Pre-Condition
+- Install Visual Studio Code
+- Install python
+- Install pandas
+
+
 Functions:
 - Function 1: Compare
 - Function 2: Count Column
