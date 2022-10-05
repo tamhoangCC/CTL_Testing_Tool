@@ -25,3 +25,5 @@ The contents of the dialog are functions
 You will also see a "Please Select A Function" dialog, where you enter the function you want to run in the Function No. field and click OK to start the program.
 
 The output file of each function after running will be stored in the Imported Resources folder.
+
+The program is very stub, if you have feedback please contact me. Thank you so much!
